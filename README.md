@@ -18,8 +18,8 @@ Client ID e Client Secret: Na página do aplicativo, você verá o "Client ID" e
 -----------------------------------------------
 
 ### Instalação Bibliotecas Python
-> spotipy==2.24.0 | pandas==2.2.2
-
+> spotipy==2.24.0 | pandas==2.2.2 | python-dotenv
+ 
 -----------------------------------------------
 
 ### Sobre o código
