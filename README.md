@@ -30,3 +30,8 @@ Client ID e Client Secret: Na página do aplicativo, você verá o "Client ID" e
  - <strong>Exibição de Resultados:</strong> Exibe algumas informações sobre o artista encontrado.
  - <strong>Resultado:</strong>O resultado da extração em uma arquivo CSV.
  - <strong>Observações:</strong> Substituir 'YOUR_CLIENT_ID' e 'YOUR_CLIENT_SECRET' pelas suas credenciais reais. Você pode modificar a consulta na função sp.search() para buscar músicas, álbuns, etc., alterando o parâmetro type.
+
+------------------------------------------------
+
+### Documentação Spotify
+- https://developer.spotify.com/documentation/web-api/tutorials/getting-started
